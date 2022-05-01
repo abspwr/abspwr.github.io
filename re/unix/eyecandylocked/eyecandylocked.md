@@ -30,6 +30,7 @@ SHA256: `2faeccea90e0321498636e4f90862b72bd714b5c997f579bc7f26822750b4ede`
 # Tutorial
 
 Run the crackme with `./EyeCandyLOCKED` and enter random input
+
 ![run](00-crackme.png)
 
 
