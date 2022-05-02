@@ -56,7 +56,7 @@ There is no restriction to length of passed string, so we both `5555555555` and 
 
 `atoi` function returns `0` for a nonnumeric character, so the passcode `88a88.8x55` will work as well.
 
-Naive brute-force passcode can be found [here](license_checker_3-key-generator-brute.go).
+Naive brute-force passcode generator can be found [here](license_checker_3-key-generator-brute.go).
 
 
 
