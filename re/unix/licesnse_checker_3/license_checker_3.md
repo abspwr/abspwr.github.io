@@ -58,7 +58,7 @@ There is no restriction to length of passed string, so we both `5555555555` and 
 
 Naive brute-force key generator can be found [here](license_checker_3-key-generator-brute.go).
 
-```go
+```
 // abspwr
 package main
 
