@@ -1,12 +1,9 @@
 # Crackmes
 
-I'm planning to post my RE adventures here. If you have recommendations or suggestions, please let me know.
-
-If you find it interesting and/or useful, and want to help me, you can send donation to: 
-
 ## RE / Unix
 
 | name | author | difficulty |  url | platform| download | date solved | tutorial |
 | --- | --- | --- | --- |  --- | --- | --- | --- |
-| EyeCandyLOCKED | nexy | 1 |  [crackme](https://crackmes.one/crackme/5ab77f5b33c5d40ad448c563) | Linux/x86-64/ELF | [download](./re/unix/eyecandylocked/EyeCandyLOCKED) | 2022-05-01 | [here](./re/unix/./eyecandylocked/eyecandylocked.md) |
+| EyeCandyLOCKED | nexy | 1 |  [crackmes.one](https://crackmes.one/crackme/5ab77f5b33c5d40ad448c563) | Linux/x86-64/ELF | [download](./re/unix/eyecandylocked/EyeCandyLOCKED) | 2022-05-01 | [here](./re/unix/./eyecandylocked/eyecandylocked.md) |
+| licesnse_checker_3 | pourmeadrinkwhileimfloating | 1 |  [crackmes.one](https://crackmes.one/crackme/62327b0433c5d46c8bcc0335) | Linux/x86-64/ELF | [download](./re/unix/licesnse_checker_3/license_checker_3) | 2022-05- | [here](./re/unix/licesnse_checker_3/license_checker_3.md) |
 
