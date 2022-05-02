@@ -12,7 +12,7 @@ Difficulty: 1
 
 Quality: 1
 
-Goal: find the passcode
+Goal: find the key
 
 Method: static analysis
 
@@ -56,11 +56,11 @@ Sho w some respect ;)
 Outta here.
 ```
 
-Function `print_center` is custom one used for text alignment and it's not of an interest to us for cracking the passcode.
+Function `print_center` is custom one used for text alignment and it's not of an interest to us for cracking the key.
 
-Main function contains infinite `while` loop that performs input from stdin, and outputs corresponding message whether we entered correct passcode or not; or if we entered `exit` which then terminates the program.
+Main function contains infinite `while` loop that performs input from stdin, and outputs corresponding message whether we entered correct key or not; or if we entered `exit` which then terminates the program.
 
-Input string from stdin is stored in local_58 variable, and then it's passed to function `checkIt` which compares the input to the passcode, and based on its return value, prints the good or badboy message.
+Input string from stdin is stored in local_58 variable, and then it's passed to function `checkIt` which compares the input to the key, and based on its return value, prints the good or badboy message.
 
 ![goodboy](03-loop.png)
 
@@ -73,9 +73,9 @@ To make things easier, we can convert the values of `out_array` to char. Select 
 
 ![convert](./05-convert-to-char.png)
 
-Do it for the all elements of the array, and the passcode will reveal.
+Do it for the all elements of the array, and the key will reveal.
 
-![passcode](./06-passcode.png)
+![key](./06-key.png)
 
-Run the program and enter the passcode `d00r1$m@licious`.
+Run the program and enter the key `d00r1$m@licious`.
 ![goodboy](./07-goodboy.png)

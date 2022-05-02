@@ -25,7 +25,7 @@ func printDigs(n uint64) {
 
 func main() {
 	n := 6
-	t := uint64(0x32) // 40
+	t := uint64(0x32) // 50
 	max := uint64(math.Pow10(n))
 	i := uint64(0)
 
