@@ -17,7 +17,7 @@
 
 | name                 | author      | year | difficulty | solved     | platform | tutorial                                        |
 |----------------------|-------------|------|------------|------------|----------|-------------------------------------------------|
-| All Star Strip Poker | Digital Red | 2006 | 1          | 2024-02-01 | Windows  | [here](./re/bizarreware/all-star-strip-poker.md)|
+| All Star Strip Poker | Digital Red | 2006 | 1          | 2024-02-01 | Windows  | [here](./re/bizarreware/all-star-strip-poker/all-star-strip-poker.md)|
 |                      |             |      |            |            |          |                                                 |
 
 
